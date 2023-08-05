@@ -21,5 +21,6 @@ Provide pre-built examples of users and accommodation types to show everything w
 Notes:
 * src/data/Initializer clean-wipes the database and re-initializes the entire app (developer tool)
 * src/GUI/RegistrationLogin_MAIN is the assigned start so the program runs as intended
+* Original fork is private because the central repository is forced-private
 
 *\*I've unfortunately lost the original header. Project courtesy of Aristotle University of Thessalonica, CSD.*
